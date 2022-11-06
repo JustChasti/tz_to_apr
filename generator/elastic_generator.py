@@ -16,5 +16,6 @@ def get_examle_doc(elastic_host, index_name, id):
 
 
 if __name__ == '__main__':
+    pass
     # generate_elastic_endex('http://localhost:9200', 'posts', posts)
     # get_examle_doc('http://localhost:9200', 'posts', '63652edbd5c9bad3c3927e8e')
