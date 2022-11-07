@@ -1,5 +1,5 @@
 from generator.mongo_import import mongoimport
-from elastic_generator import generate_elastic_endex
+from generator.elastic_generator import generate_elastic_endex
 from config import elastic_host, elastic_index
 from modules.decorators import default_decorator
 
